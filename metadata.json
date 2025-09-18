@@ -1,0 +1,7 @@
+{
+  "name": "Business Card Scanner - Asmita",
+  "description": "A modern, responsive web application to scan or upload business cards and send the image to a webhook for processing. Features camera access for real-time scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
