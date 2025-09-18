@@ -13,7 +13,7 @@ import type { AppStatus } from './types';
 import { StatusType } from './types';
 
 
-const WEBHOOK_URL = 'https://pimaj.app.n8n.cloud/webhook-test/business-card';
+const WEBHOOK_URL = 'https://pimaj.app.n8n.cloud/webhook/business-card';
 
 const App: React.FC = () => {
   const [imageFiles, setImageFiles] = useState<File[]>([]);
